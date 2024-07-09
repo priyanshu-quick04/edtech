@@ -11,3 +11,84 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.aladin-regular {
+  font-family: "Aladin", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.rakkas-regular {
+  font-family: "Rakkas", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.marko-one-regular {
+  font-family: "Marko One", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.montserrat-heading {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.montserrat-heading2 {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.montserrat-heading3 {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:600;
+  font-style: normal;
+}
+
+.my-custom-margin {
+  margin-left: 120px; 
+  margin-right: 120px; 
+}
+
+.marginHorizontal{
+  margin-top: 8rem;
+  border: none;
+  height: 2px;
+  
+}
+
+.comfortaa-regular {
+  font-family: "Comfortaa", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.comfortaa-heading {
+  font-family: "Comfortaa", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.raleway-regular {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.raleway-heading {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+
