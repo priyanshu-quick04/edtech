@@ -4,81 +4,81 @@
             {
                 "name": "Introduction to Machine Learning",
                 "details": "Learn the basics of machine learning and how to implement algorithms.",
-                "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcopyassignment.com%2Fmachine-learning-a-gentle-introduction%2F&psig=AOvVaw2iq8wk2palvJqdovJt3iul&ust=1720631183064000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJi3q-e4mocDFQAAAAAdAAAAABAE"
+                "image": "https://copyassignment.com/wp-content/uploads/2022/07/Data-768x432.png"
             },
             {
                 "name": "Deep Learning Fundamentals",
                 "details": "Dive into neural networks and deep learning techniques.",
-                "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Funderstanding-fundamentals-neural-networks-rochelle-simon&psig=AOvVaw2aRk7HO_c71Ll_ARvECUfs&ust=1720631247330000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOj75oW5mocDFQAAAAAdAAAAABAE"
+                "image": "https://media.licdn.com/dms/image/D5612AQG64FIJTWWB5w/article-cover_image-shrink_720_1280/0/1694687352022?e=1726099200&v=beta&t=9-lP1nawc5sv8T-e265hmz8vMBtMIaJ-KsmSAa2AQP4"
             },
             {
                 "name": "AI for Everyone",
                 "details": "Understand the implications of AI and its applications in various fields.",
-                "image": "https://www.google.com/url?sa=i&url=http%3A%2F%2Fceat.com.tn%2Fkjyo.aspx%3Fcname%3Donline%2Bcourses%2Bfor%2Bai%2Band%2Bmachine%2Blearning%26cid%3D95&psig=AOvVaw06kTmYaNKuWe_noCKL3x17&ust=1720631281266000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIic9Zy5mocDFQAAAAAdAAAAABAR"
+                "image": "https://blog.tonerden.com/wp-content/uploads/2020/03/TT-AI_For_Everyone_Blog_Size.jpg"
             },
             {
                 "name": "Natural Language Processing",
                 "details": "Explore the techniques used to process and analyze human language.",
-                "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fbernardmarr%2F2019%2F06%2F03%2F5-amazing-examples-of-natural-language-processing-nlp-in-practice%2F&psig=AOvVaw1OL46wRXN6uZZNHMBr1ZNm&ust=1720631347602000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCc49C5mocDFQAAAAAdAAAAABAJ"
+                "image": "https://imageio.forbes.com/blogs-images/bernardmarr/files/2019/06/5-Amazing-Examples-Of-Natural-Language-Processing-NLP-In-Practice-1200x639.jpeg?format=jpg&width=1440"
             },
             {
                 "name": "Reinforcement Learning",
                 "details": "Learn about the methods and algorithms in reinforcement learning.",
-                "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.analyticssteps.com%2Fblogs%2Ffundamentals-reinforcement-learning-its-characteristics-elements-and-applications&psig=AOvVaw10_G6tkTOxBdYt4NLIRLMZ&ust=1720631453877000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDOoOa5mocDFQAAAAAdAAAAABAQ"
+                "image": "https://www.analyticssteps.com/backend/media/thumbnail/445375/1781890_1573621074_Rainforcement_banner_tittle.jpg"
             }
         ],
         "Database": [
             {
                 "name": "SQL for Data Analysis",
                 "details": "Master SQL queries to analyze and manipulate data.",
-                "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40KanchanAdabala%2Fsql-for-data-analysis-9ccfebb3fe2b&psig=AOvVaw1LUCLPcpZjxiXxN4zweH4Q&ust=1720631516350000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiPm4a6mocDFQAAAAAdAAAAABAE"
+                "image": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*nN7yfbALEltwwFn8Aom6Dg.jpeg"
             },
             {
                 "name": "Database Management Systems",
                 "details": "Understand the core concepts of database management systems.",
-                "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.quest.com%2Flearn%2Fwhat-is-a-database-management-system.aspx&psig=AOvVaw1X80WgP1FhdDpLueQ3h5uK&ust=1720631561263000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDs3Ju6mocDFQAAAAAdAAAAABAZ"
+                "image": "https://www.quest.com/images/patterns/text-image/learn-dbms.jpg"
             },
             {
                 "name": "NoSQL Databases",
                 "details": "Learn about the various types of NoSQL databases and their applications.",
-                "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.purestorage.com%2Fpurely-educational%2Ftypes-of-nosql-databases%2F&psig=AOvVaw1KaI9KeEVaZl3oCuKidorG&ust=1720631609614000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKD9h7K6mocDFQAAAAAdAAAAABAE"
+                "image": "https://blog.purestorage.com/wp-content/uploads/2023/08/shutterstock_467410664-1-1400x916.jpg"
             },
             {
                 "name": "Data Warehousing",
                 "details": "Gain insights into data warehousing concepts and architecture.",
-                "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fdata-warehousing-kishan-kumar&psig=AOvVaw0kFTD7tfAYeg33Kf89Cgen&ust=1720632652486000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODtp6S-mocDFQAAAAAdAAAAABAE"
+                "image": "https://media.licdn.com/dms/image/D4D12AQEuTGj7eyRgtQ/article-cover_image-shrink_720_1280/0/1677594737628?e=1726099200&v=beta&t=ErR3I6A9iK8cBvU5F8AzdsAAhQX984zH_1Mlj8rh-UA"
             },
             {
                 "name": "Advanced SQL",
                 "details": "Enhance your SQL skills with advanced querying techniques.",
-                "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fcoders-mojo%2Fday-1-of-15-days-of-advanced-sql-series-a3676272dd5f&psig=AOvVaw3UN6yldYZBY4x6oithpVIz&ust=1720632683533000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPD7vLK-mocDFQAAAAAdAAAAABAJ"
+                "image": "https://miro.medium.com/v2/resize:fit:640/format:webp/0*QCqJqD4IIC8bUQGd"
             }
         ],
         "Development": [
             {
                 "name": "Web Development Bootcamp",
                 "details": "Learn to build websites from scratch using HTML, CSS, and JavaScript.",
-                "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.geeksforgeeks.org%2Fcan-start-learn-web-development%2F&psig=AOvVaw1wlIBb7oRJ13x4JxdRAZTh&ust=1720633443951000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDsg5vBmocDFQAAAAAdAAAAABAf"
+                "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20221222184908/web-development1.png"
             },
             {
                 "name": "Full Stack Development",
                 "details": "Become a full stack developer with knowledge of both frontend and backend technologies.",
-                "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.spec-india.com%2Fblog%2Ffull-stack-development-guide&psig=AOvVaw054A1oZ_h42MbqbHJn_fMO&ust=1720633496848000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCND8qLrBmocDFQAAAAAdAAAAABAJ"
+                "image": "https://www.spec-india.com/wp-content/uploads/2020/06/Full_Stack.png"
             },
             {
                 "name": "Mobile App Development",
                 "details": "Create mobile applications for Android and iOS platforms.",
-                "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.etatvasoft.com%2Fblog%2Fmobile-application-development-methodology%2F&psig=AOvVaw1W6BolVvVRm4UFAbjeuwIg&ust=1720633544606000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKja48zBmocDFQAAAAAdAAAAABAE"
+                "image": "https://www.etatvasoft.com/blog/wp-content/uploads/2022/08/mobile-app-development-methodologies.jpg"
             },
             {
                 "name": "DevOps Essentials",
                 "details": "Understand the principles and practices of DevOps.",
-                "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fwhat-devops-essential-skills-engineer-bi-plus&psig=AOvVaw3HiGW3jxn84K4uMOTltOQW&ust=1720633575952000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDm3NrBmocDFQAAAAAdAAAAABAE"
+                "image": "https://media.licdn.com/dms/image/C5612AQFEglYZd6JGnA/article-cover_image-shrink_720_1280/0/1642385766566?e=1726099200&v=beta&t=mx-Yom3GbT4jddQHRgKiTMriGXe2Kzx5Jpbeq3fTH7I"
             },
             {
                 "name": "Game Development",
                 "details": "Learn the basics of game development and create your own games.",
-                "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fsimpleprogrammer.com%2Fstarted-game-development%2F&psig=AOvVaw1zdL3-wnzglOFFh40u18jS&ust=1720633606617000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDHg-jBmocDFQAAAAAdAAAAABAJ"
+                "image": "https://t4.ftcdn.net/jpg/08/37/93/01/240_F_837930135_QjOtgCxxfqkNEwApPN5Pt2gVKuqDRYYs.jpg"
             }
         ]
     }

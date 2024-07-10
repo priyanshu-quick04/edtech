@@ -63,6 +63,9 @@ code {
   height: 2px;
   
 }
+.section-margin{
+  margin-top: 4rem;
+}
 
 .comfortaa-regular {
   font-family: "Comfortaa", sans-serif;

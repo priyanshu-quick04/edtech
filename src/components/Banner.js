@@ -1,5 +1,6 @@
 import React from "react";
 import BannerIdea from "../images/bannerIdea.png";
+import { HashLink } from "react-router-hash-link";
 
 export default function Banner() {
   return (
@@ -11,11 +12,13 @@ export default function Banner() {
         <div className="marko-one-regular w-50 text-white-50">
           <h5>Start Your Journey Towards Excellence Today</h5>
         </div>
-        <div class="marko-one-regular border-1 rounded-3 bg-white text-primary my-2 px-2 py-1 d-flex justify-content-end">
+      </div>
+      <HashLink to="#courses" className="nav-link active fw-bolder fs-6">
+        <div class="marko-one-regular border-1 rounded-3 bg-white text-primary my-2 px-2 py-1 d-inline-block z-3 position-relative">
           Browse Courses
         </div>
-      </div>
-      <div className=" position-absolute start-50 top-75 translate-middle">
+      </HashLink>
+      <div className=" position-absolute start-50 top-75 translate-middle z-0">
         <div>
           <img src={BannerIdea} alt="bannerImage" />
         </div>
