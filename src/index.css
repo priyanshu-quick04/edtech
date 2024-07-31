@@ -57,12 +57,20 @@ code {
   margin-right: 120px; 
 }
 
-.marginHorizontal{
+.marginHorizontalTop{
   margin-top: 8rem;
   border: none;
   height: 2px;
   
 }
+
+.marginHorizontalBottom{
+  margin-top: 2rem;
+  border: none;
+  height: 2px;
+  
+}
+
 .section-margin{
   margin-top: 4rem;
 }
@@ -95,3 +103,16 @@ code {
   font-style: normal;
 }
 
+.cart-indicator {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  background-color: bisque;
+  border-radius: 50%; /* Use 50% for full circular shape */
+  top: -5px; /* Adjust this value to position it vertically */
+  right: -5px; /* Adjust this value to position it horizontally */
+}
+
+.cursor_indicator{
+  cursor: pointer;
+}

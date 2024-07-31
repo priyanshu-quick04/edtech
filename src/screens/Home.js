@@ -10,7 +10,7 @@ export default function Home() {
     <div>
       <Navbar />
       <Banner />
-      <hr className="marginHorizontal bg-black" />
+      <hr className="marginHorizontalTop bg-black" />
       <div id="courses">
         {Object.keys(coursesData.courses).map((category) => (
           <Section
@@ -20,7 +20,7 @@ export default function Home() {
           />
         ))}
       </div>
-      <hr className="marginHorizontal bg-black" />
+      <hr className="marginHorizontalBottom bg-black" />
       <Footer />
       <div></div>
     </div>

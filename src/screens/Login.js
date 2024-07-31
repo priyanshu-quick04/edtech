@@ -19,6 +19,7 @@ export default function Login() {
     if (userResponse.status === 200) {
       localStorage.setItem("userEmail", credentials.email);
       localStorage.setItem("authToken", data.authToken);
+      console.log(localStorage.getItem("userEmail"));
       navigate("/");
       console.log(data.message);
     } else {
