@@ -8,7 +8,7 @@ export default function MyCourses() {
   const token = localStorage.getItem("authToken");
   const fetchUserDetails = async () => {
     try {
-      const response = await fetch("http://localhost:5000/api/getdetails", {
+      const response = await fetch("https://edbackend.onrender.com/api/getdetails", {
         method: "GET",
         headers: {
           "authorization": `Bearer ${token}`,

@@ -17,7 +17,7 @@ export default function SignUp() {
   const handleSubmit = async (e) => {
     e.preventDefault();
     console.log(credentials);
-    const userInResponse = await fetch("http://localhost:5000/api/createuser", {
+    const userInResponse = await fetch("https://edbackend.onrender.com/api/createuser", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",

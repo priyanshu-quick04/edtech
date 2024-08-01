@@ -1,6 +1,6 @@
 import "./App.css";
 import React from "react";
-import { useState, createContext } from "react";
+import { useState, createContext, useEffect} from "react";
 import SignUp from "./screens/SignUp";
 import Login from "./screens/Login";
 import Home from "./screens/Home";
@@ -13,15 +13,14 @@ export const CoursePresent = React.createContext();
 
 function App() {
   const [activeCourse, setActiveCourse] = useState(false);
-  const userPresent = localStorage.getItem("userEmail");
-  console.log(userPresent);
+  
   return (
     <CartHandle>
       <CoursePresent.Provider value={{ activeCourse, setActiveCourse }}>
         <Router>
           <div className="App">
             <Routes>
-              <Route exact path="/" element={userPresent===null?<SignUp />:<Home />} />
+              <Route exact path="/" element={<Home />} />
               <Route exact path="/signup" element={<SignUp />} />
               <Route exact path="/login" element={<Login />} />
               <Route exact path="/mycart" element={<Cart />} />

@@ -11,7 +11,7 @@ export default function CartComponent({ title, image }) {
     const course_details = cartState;
     const email = localStorage.getItem("userEmail");
     console.log(course_details,email);
-    let response = await fetch("http://localhost:5000/api/bookcourse", {
+    let response = await fetch("https://edbackend.onrender.com/api/bookcourse", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",

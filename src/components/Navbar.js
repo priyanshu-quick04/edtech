@@ -1,8 +1,10 @@
 import React, { useContext, useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 import { CartContext } from "./ContextReducer";
+import { useNavigate } from "react-router-dom";
 
 export default function Navbar() {
+  const navigate = useNavigate();
   const { cartState } = useContext(CartContext);
   const [isAuthenticated, setIsAuthenticated] = useState(false);
 
@@ -14,6 +16,7 @@ export default function Navbar() {
     localStorage.removeItem("userEmail");
     localStorage.removeItem("authToken");
     setIsAuthenticated(false);
+    navigate("/");
   };
   return (
     <div className="bg-danger py-3 text-white">
